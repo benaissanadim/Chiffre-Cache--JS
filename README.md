@@ -1,4 +1,4 @@
-# TP1ex1
+#  JEU CHIFFRE CACHE
 On a simuler le jeu du chiffre caché en utilisant au début la fonction random afin de générer un chiffre aléatoire entre 0 et 10.
 On a ajouté un paramètre représentant le niveau de difficulté du jeu.
 On a utlisé aussi les fonctions « prompt » et « alert » pour faciliter la communication avec l'utilisateur.
